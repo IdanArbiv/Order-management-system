@@ -1,0 +1,16 @@
+10,5
+1,olives,1,10
+2,mushrooms,2,20
+3,mushrooms,1,20
+4,tomatoes,2, 10
+5,olives,3,5
+6,garlic,1,10
+7,lettuce,4,5
+8,hats,4,5
+9,pineapple,5,10
+10,onion,5,3
+1,Scrabbles
+2,Hatters
+3,Sunny
+4,TeaSpoons
+5,BigSpoons
