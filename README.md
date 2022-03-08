@@ -1,4 +1,4 @@
-# Pizzeria ordering system
+# Order management system
 
 ## Table of Contents
 * [General Info](#general-information)
